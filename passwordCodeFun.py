@@ -1,7 +1,7 @@
 f"""
 1) Write a method to check whether a given string is a valid password. Return true if it is valid and false otherwise.
 Password rules:
-A password must have at least 20 characters.
+A password must have at least 13 characters.
 A password must contain an upper case letter.
 A password must contain a lower case letter.
 A password must contain a special character.
